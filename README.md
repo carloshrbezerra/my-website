@@ -12,3 +12,8 @@ This will be a change that conflicts
 
 The purpose of this file is to privide examples
 on how to use Git and Github together.
+
+
+## Getting Started
+
+To get started
